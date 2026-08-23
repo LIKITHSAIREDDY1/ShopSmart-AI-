@@ -1,0 +1,6 @@
+{
+  "name": "ShopSmart AI",
+  "description": "An AI-powered shopping assistant that understands customer needs, finds matching products, and streamlines purchases with simulated Razorpay test checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
